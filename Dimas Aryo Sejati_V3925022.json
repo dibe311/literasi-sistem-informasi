@@ -1,0 +1,852 @@
+[
+    {
+        "sumber_data": "Platform Media Sosial",
+        "jenis_data": "Postingan, Komentar, Tren Topik",
+        "data": [
+            {
+                "platform": "Twitter/X",
+                "id_post": "1700000000000000001",
+                "user": "user_a",
+                "timestamp": "2023-10-26T10:00:00Z",
+                "konten": "Demonstrasi hari ini berjalan damai. #AksiDamai #IndonesiaMaju",
+                "sentimen": "positif",
+                "hoax_status": "bukan_hoax"
+            },
+            {
+                "platform": "TikTok",
+                "id_post": "7000000000000000002",
+                "user": "user_b",
+                "timestamp": "2023-10-26T10:05:00Z",
+                "konten": "Video viral: Aparat bertindak represif! #TolakKekerasan #SuaraRakyat",
+                "sentimen": "negatif",
+                "hoax_status": "perlu_verifikasi"
+            },
+            {
+                "platform": "Instagram",
+                "id_post": "3000000000000000003",
+                "user": "user_c",
+                "timestamp": "2023-10-26T10:10:00Z",
+                "konten": "Pemerintah harus dengarkan aspirasi rakyat! #Demokrasi #Keadilan",
+                "sentimen": "netral",
+                "hoax_status": "bukan_hoax"
+            },
+            {
+                "platform": "Facebook",
+                "id_post": "4000000000000000004",
+                "user": "user_d",
+                "timestamp": "2023-10-26T10:15:00Z",
+                "konten": "Berita terbaru: Kenaikan harga BBM dibatalkan! (Link berita palsu)",
+                "sentimen": "positif",
+                "hoax_status": "hoax"
+            },
+            {
+                "platform": "Twitter/X",
+                "id_post": "1700000000000000005",
+                "user": "user_e",
+                "timestamp": "2023-10-26T10:20:00Z",
+                "konten": "Buzzer menyerang lagi, jangan mudah terprovokasi! #AntiHoax",
+                "sentimen": "negatif",
+                "hoax_status": "bukan_hoax"
+            },
+            {
+                "platform": "TikTok",
+                "id_post": "7000000000000000006",
+                "user": "user_f",
+                "timestamp": "2023-10-26T10:25:00Z",
+                "konten": "Pemerintah janji akan menindak tegas koruptor. #BerantasKorupsi",
+                "sentimen": "positif",
+                "hoax_status": "bukan_hoax"
+            },
+            {
+                "platform": "Instagram",
+                "id_post": "3000000000000000007",
+                "user": "user_g",
+                "timestamp": "2023-10-26T10:30:00Z",
+                "konten": "Foto kerusuhan di kota X. (Foto lama yang disebarkan ulang)",
+                "sentimen": "negatif",
+                "hoax_status": "hoax"
+            },
+            {
+                "platform": "Facebook",
+                "id_post": "4000000000000000008",
+                "user": "user_h",
+                "timestamp": "2023-10-26T10:35:00Z",
+                "konten": "Diskusi publik: Efektivitas kebijakan baru pemerintah. #KebijakanPublik",
+                "sentimen": "netral",
+                "hoax_status": "bukan_hoax"
+            },
+            {
+                "platform": "Twitter/X",
+                "id_post": "1700000000000000009",
+                "user": "user_i",
+                "timestamp": "2023-10-26T10:40:00Z",
+                "konten": "Masyarakat kecewa dengan kinerja DPR. #DPRGagal",
+                "sentimen": "negatif",
+                "hoax_status": "bukan_hoax"
+            },
+            {
+                "platform": "TikTok",
+                "id_post": "7000000000000000010",
+                "user": "user_j",
+                "timestamp": "2023-10-26T10:45:00Z",
+                "konten": "Tutorial cara melaporkan akun provokator. #LaporHoax",
+                "sentimen": "positif",
+                "hoax_status": "bukan_hoax"
+            },
+            {
+                "platform": "Instagram",
+                "id_post": "3000000000000000011",
+                "user": "user_k",
+                "timestamp": "2023-10-26T10:50:00Z",
+                "konten": "Pemerintah berhasil menurunkan angka kemiskinan. #PrestasiPemerintah",
+                "sentimen": "positif",
+                "hoax_status": "bukan_hoax"
+            },
+            {
+                "platform": "Facebook",
+                "id_post": "4000000000000000012",
+                "user": "user_l",
+                "timestamp": "2023-10-26T10:55:00Z",
+                "konten": "Waspada penipuan online berkedok bantuan pemerintah. #WaspadaPenipuan",
+                "sentimen": "negatif",
+                "hoax_status": "bukan_hoax"
+            },
+            {
+                "platform": "Twitter/X",
+                "id_post": "1700000000000000013",
+                "user": "user_m",
+                "timestamp": "2023-10-26T11:00:00Z",
+                "konten": "Survei: Kepercayaan publik terhadap aparat menurun. #SurveiPublik",
+                "sentimen": "negatif",
+                "hoax_status": "bukan_hoax"
+            },
+            {
+                "platform": "TikTok",
+                "id_post": "7000000000000000014",
+                "user": "user_n",
+                "timestamp": "2023-10-26T11:05:00Z",
+                "konten": "Pemerintah luncurkan program baru untuk UMKM. #DukungUMKM",
+                "sentimen": "positif",
+                "hoax_status": "bukan_hoax"
+            },
+            {
+                "platform": "Instagram",
+                "id_post": "3000000000000000015",
+                "user": "user_o",
+                "timestamp": "2023-10-26T11:10:00Z",
+                "konten": "Meme lucu tentang kebijakan pemerintah. #MemePolitik",
+                "sentimen": "netral",
+                "hoax_status": "bukan_hoax"
+            },
+            {
+                "platform": "Facebook",
+                "id_post": "4000000000000000016",
+                "user": "user_p",
+                "timestamp": "2023-10-26T11:15:00Z",
+                "konten": "Ajakan untuk demonstrasi besar-besaran. #AksiRakyat",
+                "sentimen": "negatif",
+                "hoax_status": "provokasi"
+            },
+            {
+                "platform": "Twitter/X",
+                "id_post": "1700000000000000017",
+                "user": "user_q",
+                "timestamp": "2023-10-26T11:20:00Z",
+                "konten": "Pemerintah berhasil menstabilkan harga pangan. #StabilitasEkonomi",
+                "sentimen": "positif",
+                "hoax_status": "bukan_hoax"
+            },
+            {
+                "platform": "TikTok",
+                "id_post": "7000000000000000018",
+                "user": "user_r",
+                "timestamp": "2023-10-26T11:25:00Z",
+                "konten": "Video edukasi tentang bahaya hoax. #EdukasiHoax",
+                "sentimen": "positif",
+                "hoax_status": "bukan_hoax"
+            },
+            {
+                "platform": "Instagram",
+                "id_post": "3000000000000000019",
+                "user": "user_s",
+                "timestamp": "2023-10-26T11:30:00Z",
+                "konten": "Pemerintah diminta transparan dalam penggunaan APBN. #Transparansi",
+                "sentimen": "netral",
+                "hoax_status": "bukan_hoax"
+            },
+            {
+                "platform": "Facebook",
+                "id_post": "4000000000000000020",
+                "user": "user_t",
+                "timestamp": "2023-10-26T11:35:00Z",
+                "konten": "Berita palsu: Pejabat X ditangkap KPK. (Berita lama)",
+                "sentimen": "negatif",
+                "hoax_status": "hoax"
+            },
+            {
+                "platform": "Twitter/X",
+                "id_post": "1700000000000000021",
+                "user": "user_u",
+                "timestamp": "2023-10-26T11:40:00Z",
+                "konten": "Dukungan penuh untuk pemerintah dalam mengatasi krisis. #DukungPemerintah",
+                "sentimen": "positif",
+                "hoax_status": "bukan_hoax"
+            },
+            {
+                "platform": "TikTok",
+                "id_post": "7000000000000000022",
+                "user": "user_v",
+                "timestamp": "2023-10-26T11:45:00Z",
+                "konten": "Video kompilasi janji-janji politik yang belum terealisasi. #JanjiPolitik",
+                "sentimen": "negatif",
+                "hoax_status": "bukan_hoax"
+            },
+            {
+                "platform": "Instagram",
+                "id_post": "3000000000000000023",
+                "user": "user_w",
+                "timestamp": "2023-10-26T11:50:00Z",
+                "konten": "Pemerintah membuka layanan pengaduan masyarakat. #LayananPublik",
+                "sentimen": "positif",
+                "hoax_status": "bukan_hoax"
+            },
+            {
+                "platform": "Facebook",
+                "id_post": "4000000000000000024",
+                "user": "user_x",
+                "timestamp": "2023-10-26T11:55:00Z",
+                "konten": "Diskusi tentang dampak kebijakan impor terhadap petani lokal. #PetaniIndonesia",
+                "sentimen": "netral",
+                "hoax_status": "bukan_hoax"
+            },
+            {
+                "platform": "Twitter/X",
+                "id_post": "1700000000000000025",
+                "user": "user_y",
+                "timestamp": "2023-10-26T12:00:00Z",
+                "konten": "Pemerintah harus lebih responsif terhadap keluhan masyarakat. #ResponsifPemerintah",
+                "sentimen": "negatif",
+                "hoax_status": "bukan_hoax"
+            }
+        ]
+    },
+    {
+        "sumber_data": "CCTV",
+        "jenis_data": "Rekaman Video, Gambar Statis, Metadata Lokasi dan Waktu",
+        "data": [
+            {
+                "id_cctv": "CCTV001",
+                "lokasi": "Bundaran HI",
+                "timestamp": "2023-10-26T09:30:00Z",
+                "aktivitas_terdeteksi": "Kerumunan massa",
+                "jumlah_orang": 50,
+                "status_anomali": "tinggi",
+                "url_rekaman_singkat": "https://example.com/cctv001_20231026_0930.mp4"
+            },
+            {
+                "id_cctv": "CCTV002",
+                "lokasi": "Depan Gedung DPR",
+                "timestamp": "2023-10-26T09:45:00Z",
+                "aktivitas_terdeteksi": "Demonstrasi damai",
+                "jumlah_orang": 200,
+                "status_anomali": "sedang",
+                "url_rekaman_singkat": "https://example.com/cctv002_20231026_0945.mp4"
+            },
+            {
+                "id_cctv": "CCTV003",
+                "lokasi": "Jalan Sudirman",
+                "timestamp": "2023-10-26T10:00:00Z",
+                "aktivitas_terdeteksi": "Lalu lintas normal",
+                "jumlah_orang": 0,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv003_20231026_1000.mp4"
+            },
+            {
+                "id_cctv": "CCTV004",
+                "lokasi": "Kantor Walikota",
+                "timestamp": "2023-10-26T10:15:00Z",
+                "aktivitas_terdeteksi": "Tidak ada aktivitas signifikan",
+                "jumlah_orang": 5,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv004_20231026_1015.mp4"
+            },
+            {
+                "id_cctv": "CCTV005",
+                "lokasi": "Area Pasar Tradisional",
+                "timestamp": "2023-10-26T10:30:00Z",
+                "aktivitas_terdeteksi": "Kerumunan pembeli",
+                "jumlah_orang": 100,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv005_20231026_1030.mp4"
+            },
+            {
+                "id_cctv": "CCTV006",
+                "lokasi": "Simpang Lima",
+                "timestamp": "2023-10-26T10:45:00Z",
+                "aktivitas_terdeteksi": "Kecelakaan lalu lintas kecil",
+                "jumlah_orang": 10,
+                "status_anomali": "sedang",
+                "url_rekaman_singkat": "https://example.com/cctv006_20231026_1045.mp4"
+            },
+            {
+                "id_cctv": "CCTV007",
+                "lokasi": "Stasiun Kereta Api",
+                "timestamp": "2023-10-26T11:00:00Z",
+                "aktivitas_terdeteksi": "Penumpang menunggu",
+                "jumlah_orang": 70,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv007_20231026_1100.mp4"
+            },
+            {
+                "id_cctv": "CCTV008",
+                "lokasi": "Area Perkantoran",
+                "timestamp": "2023-10-26T11:15:00Z",
+                "aktivitas_terdeteksi": "Orang berjalan kaki",
+                "jumlah_orang": 20,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv008_20231026_1115.mp4"
+            },
+            {
+                "id_cctv": "CCTV009",
+                "lokasi": "Pintu Masuk Mall",
+                "timestamp": "2023-10-26T11:30:00Z",
+                "aktivitas_terdeteksi": "Antrian masuk",
+                "jumlah_orang": 30,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv009_20231026_1130.mp4"
+            },
+            {
+                "id_cctv": "CCTV010",
+                "lokasi": "Area Parkir",
+                "timestamp": "2023-10-26T11:45:00Z",
+                "aktivitas_terdeteksi": "Kendaraan parkir",
+                "jumlah_orang": 0,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv010_20231026_1145.mp4"
+            },
+            {
+                "id_cctv": "CCTV011",
+                "lokasi": "Bundaran HI",
+                "timestamp": "2023-10-26T12:00:00Z",
+                "aktivitas_terdeteksi": "Kerumunan mulai bubar",
+                "jumlah_orang": 30,
+                "status_anomali": "sedang",
+                "url_rekaman_singkat": "https://example.com/cctv011_20231026_1200.mp4"
+            },
+            {
+                "id_cctv": "CCTV012",
+                "lokasi": "Depan Gedung DPR",
+                "timestamp": "2023-10-26T12:15:00Z",
+                "aktivitas_terdeteksi": "Provokator teridentifikasi",
+                "jumlah_orang": 1,
+                "status_anomali": "tinggi",
+                "url_rekaman_singkat": "https://example.com/cctv012_20231026_1215.mp4"
+            },
+            {
+                "id_cctv": "CCTV013",
+                "lokasi": "Jalan Sudirman",
+                "timestamp": "2023-10-26T12:30:00Z",
+                "aktivitas_terdeteksi": "Lalu lintas padat",
+                "jumlah_orang": 0,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv013_20231026_1230.mp4"
+            },
+            {
+                "id_cctv": "CCTV014",
+                "lokasi": "Kantor Walikota",
+                "timestamp": "2023-10-26T12:45:00Z",
+                "aktivitas_terdeteksi": "Rapat di dalam gedung",
+                "jumlah_orang": 15,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv014_20231026_1245.mp4"
+            },
+            {
+                "id_cctv": "CCTV015",
+                "lokasi": "Area Pasar Tradisional",
+                "timestamp": "2023-10-26T13:00:00Z",
+                "aktivitas_terdeteksi": "Aktivitas jual beli",
+                "jumlah_orang": 80,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv015_20231026_1300.mp4"
+            },
+            {
+                "id_cctv": "CCTV016",
+                "lokasi": "Simpang Lima",
+                "timestamp": "2023-10-26T13:15:00Z",
+                "aktivitas_terdeteksi": "Kendaraan melintas",
+                "jumlah_orang": 0,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv016_20231026_1315.mp4"
+            },
+            {
+                "id_cctv": "CCTV017",
+                "lokasi": "Stasiun Kereta Api",
+                "timestamp": "2023-10-26T13:30:00Z",
+                "aktivitas_terdeteksi": "Kedatangan kereta",
+                "jumlah_orang": 120,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv017_20231026_1330.mp4"
+            },
+            {
+                "id_cctv": "CCTV018",
+                "lokasi": "Area Perkantoran",
+                "timestamp": "2023-10-26T13:45:00Z",
+                "aktivitas_terdeteksi": "Karyawan istirahat",
+                "jumlah_orang": 40,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv018_20231026_1345.mp4"
+            },
+            {
+                "id_cctv": "CCTV019",
+                "lokasi": "Pintu Masuk Mall",
+                "timestamp": "2023-10-26T14:00:00Z",
+                "aktivitas_terdeteksi": "Pengunjung keluar masuk",
+                "jumlah_orang": 60,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv019_20231026_1400.mp4"
+            },
+            {
+                "id_cctv": "CCTV020",
+                "lokasi": "Area Parkir",
+                "timestamp": "2023-10-26T14:15:00Z",
+                "aktivitas_terdeteksi": "Kendaraan keluar",
+                "jumlah_orang": 0,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv020_20231026_1415.mp4"
+            },
+            {
+                "id_cctv": "CCTV021",
+                "lokasi": "Bundaran HI",
+                "timestamp": "2023-10-26T14:30:00Z",
+                "aktivitas_terdeteksi": "Tidak ada kerumunan",
+                "jumlah_orang": 10,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv021_20231026_1430.mp4"
+            },
+            {
+                "id_cctv": "CCTV022",
+                "lokasi": "Depan Gedung DPR",
+                "timestamp": "2023-10-26T14:45:00Z",
+                "aktivitas_terdeteksi": "Situasi kondusif",
+                "jumlah_orang": 5,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv022_20231026_1445.mp4"
+            },
+            {
+                "id_cctv": "CCTV023",
+                "lokasi": "Jalan Sudirman",
+                "timestamp": "2023-10-26T15:00:00Z",
+                "aktivitas_terdeteksi": "Lalu lintas lancar",
+                "jumlah_orang": 0,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv023_20231026_1500.mp4"
+            },
+            {
+                "id_cctv": "CCTV024",
+                "lokasi": "Kantor Walikota",
+                "timestamp": "2023-10-26T15:15:00Z",
+                "aktivitas_terdeteksi": "Pegawai pulang",
+                "jumlah_orang": 25,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv024_20231026_1515.mp4"
+            },
+            {
+                "id_cctv": "CCTV025",
+                "lokasi": "Area Pasar Tradisional",
+                "timestamp": "2023-10-26T15:30:00Z",
+                "aktivitas_terdeteksi": "Pasar mulai sepi",
+                "jumlah_orang": 40,
+                "status_anomali": "rendah",
+                "url_rekaman_singkat": "https://example.com/cctv025_20231026_1530.mp4"
+            }
+        ]
+    },
+    {
+        "sumber_data": "Data Pemerintahan",
+        "jenis_data": "Anggaran, Laporan Kinerja, Data Kebijakan",
+        "data": [
+            {
+                "jenis_data": "APBN",
+                "tahun": 2023,
+                "pos_anggaran": "Pendidikan",
+                "alokasi_dana_miliar_rupiah": 600,
+                "realisasi_persen": 85.5,
+                "keterangan": "Anggaran pendidikan untuk tahun 2023."
+            },
+            {
+                "jenis_data": "APBN",
+                "tahun": 2023,
+                "pos_anggaran": "Kesehatan",
+                "alokasi_dana_miliar_rupiah": 200,
+                "realisasi_persen": 90.2,
+                "keterangan": "Anggaran kesehatan nasional."
+            },
+            {
+                "jenis_data": "APBN",
+                "tahun": 2023,
+                "pos_anggaran": "Infrastruktur",
+                "alokasi_dana_miliar_rupiah": 450,
+                "realisasi_persen": 78,
+                "keterangan": "Pembangunan infrastruktur jalan dan jembatan."
+            },
+            {
+                "jenis_data": "Kinerja Lembaga",
+                "lembaga": "Kementerian Keuangan",
+                "periode": "Q3 2023",
+                "indikator_kinerja": "Penerimaan Pajak",
+                "target_miliar_rupiah": 1500,
+                "realisasi_miliar_rupiah": 1480,
+                "persentase_pencapaian": 98.67,
+                "keterangan": "Laporan penerimaan pajak triwulan ketiga."
+            },
+            {
+                "jenis_data": "Kinerja Lembaga",
+                "lembaga": "Kementerian Pertanian",
+                "periode": "Q3 2023",
+                "indikator_kinerja": "Produksi Padi",
+                "target_ton": 15,
+                "realisasi_ton": 14.5,
+                "persentase_pencapaian": 96.67,
+                "keterangan": "Data produksi padi nasional."
+            },
+            {
+                "jenis_data": "Kinerja Dewan",
+                "lembaga": "DPR RI",
+                "periode": "2023",
+                "indikator_kinerja": "Jumlah RUU Disahkan",
+                "target": 50,
+                "realisasi": 35,
+                "persentase_pencapaian": 70,
+                "keterangan": "Jumlah Rancangan Undang-Undang yang disahkan."
+            },
+            {
+                "jenis_data": "APBN",
+                "tahun": 2023,
+                "pos_anggaran": "Pertahanan",
+                "alokasi_dana_miliar_rupiah": 180,
+                "realisasi_persen": 88,
+                "keterangan": "Anggaran untuk sektor pertahanan dan keamanan."
+            },
+            {
+                "jenis_data": "APBN",
+                "tahun": 2023,
+                "pos_anggaran": "Sosial",
+                "alokasi_dana_miliar_rupiah": 120,
+                "realisasi_persen": 92.5,
+                "keterangan": "Bantuan sosial dan pemberdayaan masyarakat."
+            },
+            {
+                "jenis_data": "Kinerja Lembaga",
+                "lembaga": "Kementerian Sosial",
+                "periode": "Q3 2023",
+                "indikator_kinerja": "Penyaluran Bansos",
+                "target_persen": 100,
+                "realisasi_persen": 95,
+                "persentase_pencapaian": 95,
+                "keterangan": "Persentase penyaluran bantuan sosial."
+            },
+            {
+                "jenis_data": "Kinerja Dewan",
+                "lembaga": "DPR RI",
+                "periode": "2023",
+                "indikator_kinerja": "Tingkat Kehadiran Rapat Paripurna",
+                "target_persen": 90,
+                "realisasi_persen": 82,
+                "persentase_pencapaian": 91.11,
+                "keterangan": "Rata-rata tingkat kehadiran anggota DPR dalam rapat paripurna."
+            },
+            {
+                "jenis_data": "APBN",
+                "tahun": 2023,
+                "pos_anggaran": "Lingkungan Hidup",
+                "alokasi_dana_miliar_rupiah": 50,
+                "realisasi_persen": 70,
+                "keterangan": "Anggaran untuk program pelestarian lingkungan."
+            },
+            {
+                "jenis_data": "APBN",
+                "tahun": 2023,
+                "pos_anggaran": "Pariwisata",
+                "alokasi_dana_miliar_rupiah": 75,
+                "realisasi_persen": 80,
+                "keterangan": "Anggaran untuk pengembangan sektor pariwisata."
+            },
+            {
+                "jenis_data": "Kinerja Lembaga",
+                "lembaga": "Kementerian Pariwisata",
+                "periode": "Q3 2023",
+                "indikator_kinerja": "Jumlah Kunjungan Wisman",
+                "target_juta": 8,
+                "realisasi_juta": 7.5,
+                "persentase_pencapaian": 93.75,
+                "keterangan": "Jumlah kunjungan wisatawan mancanegara."
+            },
+            {
+                "jenis_data": "Kinerja Dewan",
+                "lembaga": "DPR RI",
+                "periode": "2023",
+                "indikator_kinerja": "Jumlah Aspirasi Masyarakat Ditindaklanjuti",
+                "target": 1000,
+                "realisasi": 850,
+                "persentase_pencapaian": 85,
+                "keterangan": "Jumlah aspirasi masyarakat yang telah ditindaklanjuti."
+            },
+            {
+                "jenis_data": "APBN",
+                "tahun": 2023,
+                "pos_anggaran": "Penelitian dan Pengembangan",
+                "alokasi_dana_miliar_rupiah": 30,
+                "realisasi_persen": 65,
+                "keterangan": "Anggaran untuk riset dan pengembangan teknologi."
+            },
+            {
+                "jenis_data": "APBN",
+                "tahun": 2023,
+                "pos_anggaran": "Perumahan Rakyat",
+                "alokasi_dana_miliar_rupiah": 90,
+                "realisasi_persen": 72,
+                "keterangan": "Program pembangunan perumahan subsidi."
+            },
+            {
+                "jenis_data": "Kinerja Lembaga",
+                "lembaga": "Kementerian PUPR",
+                "periode": "Q3 2023",
+                "indikator_kinerja": "Pembangunan Rumah Subsidi",
+                "target_unit": 50000,
+                "realisasi_unit": 40000,
+                "persentase_pencapaian": 80,
+                "keterangan": "Jumlah unit rumah subsidi yang telah dibangun."
+            },
+            {
+                "jenis_data": "Kinerja Dewan",
+                "lembaga": "DPR RI",
+                "periode": "2023",
+                "indikator_kinerja": "Jumlah Kunjungan Kerja",
+                "target": 200,
+                "realisasi": 180,
+                "persentase_pencapaian": 90,
+                "keterangan": "Jumlah kunjungan kerja anggota dewan ke daerah pemilihan."
+            },
+            {
+                "jenis_data": "APBN",
+                "tahun": 2023,
+                "pos_anggaran": "Energi dan Sumber Daya Mineral",
+                "alokasi_dana_miliar_rupiah": 110,
+                "realisasi_persen": 83,
+                "keterangan": "Anggaran untuk sektor energi dan pertambangan."
+            },
+            {
+                "jenis_data": "APBN",
+                "tahun": 2023,
+                "pos_anggaran": "Perdagangan",
+                "alokasi_dana_miliar_rupiah": 40,
+                "realisasi_persen": 75,
+                "keterangan": "Anggaran untuk stabilisasi harga dan perdagangan."
+            },
+            {
+                "jenis_data": "Kinerja Lembaga",
+                "lembaga": "Kementerian Perdagangan",
+                "periode": "Q3 2023",
+                "indikator_kinerja": "Stabilitas Harga Pokok",
+                "target_persen": 95,
+                "realisasi_persen": 92,
+                "persentase_pencapaian": 96.84,
+                "keterangan": "Tingkat stabilitas harga kebutuhan pokok."
+            },
+            {
+                "jenis_data": "Kinerja Dewan",
+                "lembaga": "DPR RI",
+                "periode": "2023",
+                "indikator_kinerja": "Jumlah Rapat Komisi",
+                "target": 500,
+                "realisasi": 480,
+                "persentase_pencapaian": 96,
+                "keterangan": "Jumlah rapat komisi yang telah dilaksanakan."
+            },
+            {
+                "jenis_data": "APBN",
+                "tahun": 2023,
+                "pos_anggaran": "Transportasi",
+                "alokasi_dana_miliar_rupiah": 130,
+                "realisasi_persen": 87,
+                "keterangan": "Anggaran untuk pengembangan sarana transportasi."
+            },
+            {
+                "jenis_data": "Kinerja Lembaga",
+                "lembaga": "Kementerian Perhubungan",
+                "periode": "Q3 2023",
+                "indikator_kinerja": "Pembangunan Jalur Kereta Api",
+                "target_km": 100,
+                "realisasi_km": 85,
+                "persentase_pencapaian": 85,
+                "keterangan": "Panjang jalur kereta api baru yang dibangun."
+            },
+            {
+                "jenis_data": "Kinerja Dewan",
+                "lembaga": "DPR RI",
+                "periode": "2023",
+                "indikator_kinerja": "Jumlah Pansus/Panja",
+                "target": 20,
+                "realisasi": 18,
+                "persentase_pencapaian": 90,
+                "keterangan": "Jumlah Panitia Khusus/Kerja yang dibentuk."
+            }
+        ]
+    },
+    {
+        "sumber_data": "Data Ekonomi",
+        "jenis_data": "Tingkat Pengangguran, Tingkat Inflasi",
+        "data": [
+            {
+                "indikator": "Tingkat Pengangguran",
+                "periode": "Q1 2023",
+                "nilai_persen": 5.8,
+                "keterangan": "Tingkat pengangguran nasional pada kuartal pertama 2023."
+            },
+            {
+                "indikator": "Tingkat Inflasi",
+                "periode": "Januari 2023",
+                "nilai_persen": 4.5,
+                "keterangan": "Inflasi bulanan Januari 2023 (YoY)."
+            },
+            {
+                "indikator": "Tingkat Pengangguran",
+                "periode": "Q2 2023",
+                "nilai_persen": 5.6,
+                "keterangan": "Tingkat pengangguran nasional pada kuartal kedua 2023."
+            },
+            {
+                "indikator": "Tingkat Inflasi",
+                "periode": "Februari 2023",
+                "nilai_persen": 4.2,
+                "keterangan": "Inflasi bulanan Februari 2023 (YoY)."
+            },
+            {
+                "indikator": "Tingkat Pengangguran",
+                "periode": "Q3 2023",
+                "nilai_persen": 5.5,
+                "keterangan": "Tingkat pengangguran nasional pada kuartal ketiga 2023."
+            },
+            {
+                "indikator": "Tingkat Inflasi",
+                "periode": "Maret 2023",
+                "nilai_persen": 4.0,
+                "keterangan": "Inflasi bulanan Maret 2023 (YoY)."
+            },
+            {
+                "indikator": "Tingkat Pengangguran",
+                "periode": "Q4 2022",
+                "nilai_persen": 5.9,
+                "keterangan": "Tingkat pengangguran nasional pada kuartal keempat 2022."
+            },
+            {
+                "indikator": "Tingkat Inflasi",
+                "periode": "April 2023",
+                "nilai_persen": 3.8,
+                "keterangan": "Inflasi bulanan April 2023 (YoY)."
+            },
+            {
+                "indikator": "Tingkat Pengangguran",
+                "periode": "Q1 2022",
+                "nilai_persen": 6.2,
+                "keterangan": "Tingkat pengangguran nasional pada kuartal pertama 2022."
+            },
+            {
+                "indikator": "Tingkat Inflasi",
+                "periode": "Mei 2023",
+                "nilai_persen": 3.5,
+                "keterangan": "Inflasi bulanan Mei 2023 (YoY)."
+            },
+            {
+                "indikator": "Tingkat Pengangguran",
+                "periode": "Q2 2022",
+                "nilai_persen": 6.0,
+                "keterangan": "Tingkat pengangguran nasional pada kuartal kedua 2022."
+            },
+            {
+                "indikator": "Tingkat Inflasi",
+                "periode": "Juni 2023",
+                "nilai_persen": 3.2,
+                "keterangan": "Inflasi bulanan Juni 2023 (YoY)."
+            },
+            {
+                "indikator": "Tingkat Pengangguran",
+                "periode": "Q3 2022",
+                "nilai_persen": 5.7,
+                "keterangan": "Tingkat pengangguran nasional pada kuartal ketiga 2022."
+            },
+            {
+                "indikator": "Tingkat Inflasi",
+                "periode": "Juli 2023",
+                "nilai_persen": 3.0,
+                "keterangan": "Inflasi bulanan Juli 2023 (YoY)."
+            },
+            {
+                "indikator": "Tingkat Pengangguran",
+                "periode": "Q4 2021",
+                "nilai_persen": 6.5,
+                "keterangan": "Tingkat pengangguran nasional pada kuartal keempat 2021."
+            },
+            {
+                "indikator": "Tingkat Inflasi",
+                "periode": "Agustus 2023",
+                "nilai_persen": 2.8,
+                "keterangan": "Inflasi bulanan Agustus 2023 (YoY)."
+            },
+            {
+                "indikator": "Tingkat Pengangguran",
+                "periode": "Q1 2021",
+                "nilai_persen": 6.8,
+                "keterangan": "Tingkat pengangguran nasional pada kuartal pertama 2021."
+            },
+            {
+                "indikator": "Tingkat Inflasi",
+                "periode": "September 2023",
+                "nilai_persen": 2.5,
+                "keterangan": "Inflasi bulanan September 2023 (YoY)."
+            },
+            {
+                "indikator": "Tingkat Pengangguran",
+                "periode": "Q2 2021",
+                "nilai_persen": 6.7,
+                "keterangan": "Tingkat pengangguran nasional pada kuartal kedua 2021."
+            },
+            {
+                "indikator": "Tingkat Inflasi",
+                "periode": "Oktober 2023",
+                "nilai_persen": 2.3,
+                "keterangan": "Inflasi bulanan Oktober 2023 (YoY)."
+            },
+            {
+                "indikator": "Tingkat Pengangguran",
+                "periode": "Q3 2021",
+                "nilai_persen": 6.4,
+                "keterangan": "Tingkat pengangguran nasional pada kuartal ketiga 2021."
+            },
+            {
+                "indikator": "Tingkat Inflasi",
+                "periode": "November 2023",
+                "nilai_persen": 2.1,
+                "keterangan": "Inflasi bulanan November 2023 (YoY)."
+            },
+            {
+                "indikator": "Tingkat Pengangguran",
+                "periode": "Q4 2020",
+                "nilai_persen": 7.0,
+                "keterangan": "Tingkat pengangguran nasional pada kuartal keempat 2020 (dampak pandemi)."
+            },
+            {
+                "indikator": "Tingkat Inflasi",
+                "periode": "Desember 2023",
+                "nilai_persen": 2.0,
+                "keterangan": "Inflasi bulanan Desember 2023 (YoY)."
+            },
+            {
+                "indikator": "Tingkat Pengangguran",
+                "periode": "Q1 2020",
+                "nilai_persen": 5.0,
+                "keterangan": "Tingkat pengangguran nasional pada kuartal pertama 2020 (sebelum pandemi)."
+            }
+        ]
+    }
+]
